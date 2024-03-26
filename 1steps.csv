@@ -1,0 +1,12 @@
+StepID,ServiceID,StepNumber,ClientStep,AgencyAction,FeesToBePaid,ProcessingTime,OfficerID
+1,1,1,Request for Mayor’s Clearance and submit requirements at the City Mayor’s Office,Receive and verify requirements,,5 Minutes,1
+2,1,2,Pay the required fees at the Office of the City Treasurer Windows 8 9 and 10 by showing the Order of Payment,Receive payment based on the Order of Payment,Certification & Secretary’s Fee – PHP 50.00 and 2 pcs documentary stamp for PHP 30.00,5 Minutes,2
+3,1,2.1,Secure Official Receipt and the documentary stamps that will be issued upon payment,Issue Official Receipt, None,5 Minutes,3
+4,1,3,Proceed to the Mayor’s Office and present the Official Receipt (OR),Check Official Receipt,,2 Minutes,4
+5,1,4,Accept the Mayor’s Clearance,File a copy of the Mayor’s Clearance with its requirements,,5 Minutes,Joy B. Loquero
+6,2,5,Submit Biodata, latest grades and Certification at the City Mayor’s Office,Receive the Biodata, latest grades and Certification,None,15 Minutes,Rosemarie M. Abutan Admin. Asst. I IP Staff City Mayor’s Office
+7,2,6,Review and sign the Scholarship Contract,Retrieve the Scholarship Contract and route for signing,None,10 Minutes,Rosemarie M. Abutan Admin. Asst. I IP Staff City Mayor’s Office
+8,2,7,Review and Sign the Scholarship Contract,None,None,1 Day,Hon. Erick G. Cañosa City Mayor Office of the City Mayor
+9,2,8,Review and notarized the Scholarship Contract,None,None,1 Day,Atty. Philip S. Galagar Assistant City Civil Registrar City Legal Office
+10,2,9,Issue the Scholarship Contract,None,None,2 Minutes,Rosemarie M. Abutan Admin. Asst. I IP Staff City Mayor’s Office
+11,2,10,Accept and acknowledge receipt of the Scholarship Contract,File a copy of the Scholarship Contract along with the requirements,None,5 Minutes,Rosemarie M. Abutan Admin. Asst. I IP Staff City Mayor’s Office
