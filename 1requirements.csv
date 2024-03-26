@@ -1,44 +1,44 @@
 RequirementID,ServiceID,RequirementName,WhereToSecure
-1,1,Barangay Clearance,Barangay Hall of the Barangay where the client is currently residing
-2,1,Police Clearance,Police Station
-3,1,Court Clearance,Hall of Justice
-4,1,Clerk of Court Clearance,Hall of Justice
-5,1,Municipal Trial Court Clearance,Hall of Justice
-6,1,Cedula/Community Tax Certificate,City Treasurer’s Office (CTO)
-7,1,Official Receipt of Clearance fee,City Treasurer’s Office
-8,1,City Prosecutor Clearance,Office of the City Prosecutor, Hall of Justice
-9,2,Certification (IP group member or lineage),Barangay Hall of the Barangay where the IP applicant is currently residing
-10,2,Biodata,Requesting party/Client
-11,2,Latest Grades,School
-12,3,Vacation Leave (within Philippines) or Sick Leave of less than 5 consecutive Days,Client’s Respective Department/Office
-13,3,Vacation Leave (Abroad) - Approved Letter Request,Client
-14,3,Vacation Leave (Abroad) - Application for Leave form,Client’s Respective Department/Office
-15,3,Vacation Leave (Abroad) - Clearance from money and property liability,Client’s Respective Department/Office
-16,3,Leave due to Gynecological Disorder - Letter Request,Client
-17,3,Leave due to Gynecological Disorder - Application for Leave form,Client’s Respective Department/Office
-18,3,Leave due to Gynecological Disorder - Medical Certificate/ Medical abstract,Attending Physician
-19,3,Leave due to Gynecological Disorder - Clearance from money and property liability,Client’s Respective Department/Office
-20,3,Sick Leave of more than 5 consecutive Days - Application for Leave form,Client’s Respective Department/Office
-21,3,Sick Leave of more than 5 consecutive Days - Medical Certificate/ Medical abstract,Attending Physician
-22,3,Vacation Leave of more than 1 month - Approved Letter Request,Client
-23,3,Vacation Leave of more than 1 month - Application for Leave form,Client’s Respective Department/Office
-24,3,Vacation Leave of more than 1 month - Clearance from money and property liability,Client’s Respective Department/Office
-25,3,Terminal Leave - Application for Leave form,Client’s Respective Department/Office
-26,3,Terminal Leave - Clearance from money and property liability,Client’s Respective Department/Office
-27,3,Rehabilitation Leave - Application for Leave form,Client’s Respective Department/Office
-28,3,Rehabilitation Leave - Medical Certificate,Attending Physician
-29,3,Rehabilitation Leave - Police Report,Police Station
-30,3,VAWC Leave (maximum of 10 Days) - Application for Leave form,Client’s Respective Department/Office
-31,3,VAWC Leave (maximum of 10 Days) - Medical Certificate,Attending Physician
-32,3,VAWC Leave (maximum of 10 Days) - Barangay Protection Order (BPO),Barangay where the case is filed
-33,3,VAWC Leave (maximum of 10 Days) - Temporary/Permanent Order (TPO/PPO),Court/Judge
-34,3,VAWC Leave (maximum of 10 Days) - Police Report,Police Station
-35,3,VAWC Leave (maximum of 10 Days) - CSWD Certification,City Social Welfare and Development Office
-36,3,Maternity (105 Days) or Paternity Leave (7 Days - applicable on first 4 deliveries) - Application for Leave form,Client’s Respective Department/Office
-37,3,Maternity (105 Days) or Paternity Leave (7 Days - applicable on first 4 deliveries) - Birth Certificate of the child,Local Civil Registry Office
-38,3,Maternity (105 Days) or Paternity Leave (7 Days - applicable on first 4 deliveries) - Marriage Certificate,Local Civil Registry Office
-39,3,Maternity (105 Days) or Paternity Leave (7 Days - applicable on first 4 deliveries) - Medical Certificate,Attending Physician
-40,3,Special Privileged Leave (SPL) (maximum of 3 Days) - Application for Leave form,Client’s Respective Department/Office
-41,3,Force Leave (5 Days mandatory) - Application for Leave form,Client’s Respective Department/Office
-42,3,Solo Parent Leave (maximum of 7 Days) - Application for Leave form,Client’s Respective Department/Office
-43,3,Solo Parent Leave (maximum of 7 Days) - Solo Parent ID,City Social Welfare and Development Office
+1,1,"Barangay Clearance","Barangay Hall of the Barangay where the client is currently residing"
+2,1,"Police Clearance","Police Station"
+3,1,"Court Clearance","Hall of Justice"
+4,1,"Clerk of Court Clearance","Hall of Justice"
+5,1,"Municipal Trial Court Clearance","Hall of Justice"
+6,1,"Cedula/Community Tax Certificate","City Treasurer’s Office (CTO)"
+7,1,"Official Receipt of Clearance fee","City Treasurer’s Office"
+8,1,"City Prosecutor Clearance","Office of the City Prosecutor, Hall of Justice"
+9,2,"Certification (IP group member or lineage)","Barangay Hall of the Barangay where the IP applicant is currently residing"
+10,2,"Biodata","Requesting party/Client"
+11,2,"Latest Grades","School"
+12,3,"Vacation Leave (within Philippines) or Sick Leave of less than 5 consecutive Days","Client’s Respective Department/Office"
+13,3,"Vacation Leave (Abroad) - Approved Letter Request","Client"
+14,3,"Vacation Leave (Abroad) - Application for Leave form","Client’s Respective Department/Office"
+15,3,"Vacation Leave (Abroad) - Clearance from money and property liability","Client’s Respective Department/Office"
+16,3,"Leave due to Gynecological Disorder - Letter Request","Client"
+17,3,"Leave due to Gynecological Disorder - Application for Leave form","Client’s Respective Department/Office"
+18,3,"Leave due to Gynecological Disorder - Medical Certificate/ Medical abstract","Attending Physician"
+19,3,"Leave due to Gynecological Disorder - Clearance from money and property liability","Client’s Respective Department/Office"
+20,3,"Sick Leave of more than 5 consecutive Days - Application for Leave form","Client’s Respective Department/Office"
+21,3,"Sick Leave of more than 5 consecutive Days - Medical Certificate/ Medical abstract","Attending Physician"
+22,3,"Vacation Leave of more than 1 month - Approved Letter Request","Client"
+23,3,"Vacation Leave of more than 1 month - Application for Leave form","Client’s Respective Department/Office"
+24,3,"Vacation Leave of more than 1 month - Clearance from money and property liability","Client’s Respective Department/Office"
+25,3,"Terminal Leave - Application for Leave form","Client’s Respective Department/Office"
+26,3,"Terminal Leave - Clearance from money and property liability","Client’s Respective Department/Office"
+27,3,"Rehabilitation Leave - Application for Leave form","Client’s Respective Department/Office"
+28,3,"Rehabilitation Leave - Medical Certificate","Attending Physician"
+29,3,"Rehabilitation Leave - Police Report","Police Station"
+30,3,"VAWC Leave (maximum of 10 Days) - Application for Leave form","Client’s Respective Department/Office"
+31,3,"VAWC Leave (maximum of 10 Days) - Medical Certificate","Attending Physician"
+32,3,"VAWC Leave (maximum of 10 Days) - Barangay Protection Order (BPO)","Barangay where the case is filed"
+33,3,"VAWC Leave (maximum of 10 Days) - Temporary/Permanent Order (TPO/PPO)","Court/Judge"
+34,3,"VAWC Leave (maximum of 10 Days) - Police Report","Police Station"
+35,3,"VAWC Leave (maximum of 10 Days) - CSWD Certification","City Social Welfare and Development Office"
+36,3,"Maternity (105 Days) or Paternity Leave (7 Days - applicable on first 4 deliveries) - Application for Leave form","Client’s Respective Department/Office"
+37,3,"Maternity (105 Days) or Paternity Leave (7 Days - applicable on first 4 deliveries) - Birth Certificate of the child","Local Civil Registry Office"
+38,3,"Maternity (105 Days) or Paternity Leave (7 Days - applicable on first 4 deliveries) - Marriage Certificate","Local Civil Registry Office"
+39,3,"Maternity (105 Days) or Paternity Leave (7 Days - applicable on first 4 deliveries) - Medical Certificate","Attending Physician"
+40,3,"Special Privileged Leave (SPL) (maximum of 3 Days) - Application for Leave form","Client’s Respective Department/Office"
+41,3,"Force Leave (5 Days mandatory) - Application for Leave form","Client’s Respective Department/Office"
+42,3,"Solo Parent Leave (maximum of 7 Days) - Application for Leave form","Client’s Respective Department/Office"
+43,3,"Solo Parent Leave (maximum of 7 Days) - Solo Parent ID","City Social Welfare and Development Office"
