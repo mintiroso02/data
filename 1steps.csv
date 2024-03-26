@@ -6,7 +6,7 @@ StepID,ServiceID,StepNumber,ClientStep,AgencyAction,FeesToBePaid,ProcessingTime,
 5,1,5,"Accept the Mayor’s Clearance","File a copy of the Mayor’s Clearance with its requirements","None","5 Minutes",1
 6,2,6,"Submit Biodata, latest grades and Certification at the City Mayor’s Office","Receive the Biodata, latest grades and Certification","None","15 Minutes",2
 7,2,7,"Review and sign the Scholarship Contract","Retrieve the Scholarship Contract and route for signing","None","10 Minutes",1
-8,2,8,"Review and Sign the Scholarship Contract","None","1 Day",1
-9,2,9,"Review and notarize the Scholarship Contract","None","1 Day",1
-10,2,10,"Issue the Scholarship Contract","None","2 Minutes",1
+8,2,8,"None","Review and Sign the Scholarship Contract","None","1 Day",1
+9,2,9,"None","Review and notarize the Scholarship Contract","None","1 Day",1
+10,2,10,"None","Issue the Scholarship Contract","None","2 Minutes",1
 11,2,11,"Accept and acknowledge receipt of the Scholarship Contract","File a copy of the Scholarship Contract along with the requirements","None","5 Minutes",1
